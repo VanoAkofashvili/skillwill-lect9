@@ -1,0 +1,24 @@
+form {
+  width: 400px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  background-color: #e1e1e1;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+input {
+  padding: 5px 10px;
+  border: none;
+  border-radius: 10px;
+  border: 1px solid #eee;
+}
+
+button {
+  background-color: green;
+  border-radius: 5px;
+  color: white;
+  border: none;
+  padding: 10px 14px;
+}

@@ -1,0 +1,27 @@
+.card {
+  border: 10px solid green;
+  border-radius: 10px;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 300px;
+}
+
+.rounded-img {
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.btn {
+  background-color: green;
+  border-radius: 5px;
+  color: white;
+  border: none;
+  padding: 10px 14px;
+}
